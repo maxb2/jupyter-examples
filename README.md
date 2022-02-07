@@ -5,7 +5,7 @@
 
 ## Slate Example
 
-[Slate example](./slate) - Integrate Jupyter cells in a [Slate](https://www.slatejs.org) document.
+[Slate example](./slate): Integrate Jupyter cells in a [Slate](https://www.slatejs.org) document.
 
 <div align="center" style="text-align: center">
   <img alt="Jupyter React Slate" src="https://jupyter-examples.datalayer.tech/jupyter-react-slate.gif" />
@@ -13,19 +13,19 @@
 
 ## Docusaurus Example
 
-[Docusaurus example](./docusaurus) - Integrate a Jupyter cell in a [Docusaurus](https://docusaurus.io) site with [jupyter-docusaurus-plugin](https://github.com/datalayer/jupyter-docusaurus).
+[Docusaurus example](./docusaurus): integrate a Jupyter cell in a [Docusaurus](https://docusaurus.io) site with [jupyter-docusaurus-plugin](https://github.com/datalayer/jupyter-docusaurus).
 
 <div align="center" style="text-align: center">
   <img alt="Jupyter React Slate" src="https://jupyter-examples.datalayer.tech/jupyter-react-docusaurus.png" />
 </div>
 
-## Server
-
-- [Jupyter Server Extensions](https://github.com/datalayer-examples/jupyter-examples/tree/main/jupyter-server-extensions)
-
 ## JupyterLab
 
-- [JupyterLab Extensions](https://github.com/datalayer-examples/jupyter-examples/tree/main/jupyterlab-extensions)
+[JupyterLab extensions example](https://github.com/datalayer-examples/jupyter-examples/tree/main/jupyterlab-extensions)
+
+## Server
+
+[Jupyter Server extensions example](https://github.com/datalayer-examples/jupyter-examples/tree/main/jupyter-server-extensions)
 
 ## License
 
