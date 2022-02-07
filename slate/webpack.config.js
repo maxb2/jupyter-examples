@@ -71,7 +71,7 @@ module.exports = {
   },
   output: {
     publicPath: publicPath,
-    filename: '[name].[contenthash].editorSlate.js',
+    filename: '[name].[contenthash].jupyterSlate.js',
   },
   resolve: {
     extensions: [ '.tsx', '.ts', 'jsx', '.js' ],
@@ -169,8 +169,8 @@ module.exports = {
       process: 'process/browser'
     }),
     new ModuleFederationPlugin({
-      name: "editorSlate",
-      filename: "editorSlate.js",
+      name: "jupyterSlate",
+      filename: "jupyterSlate.js",
       exposes: {
         "./Index": "./src/index",
       },
