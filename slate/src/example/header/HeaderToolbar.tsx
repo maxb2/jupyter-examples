@@ -3,7 +3,7 @@ import { alpha, styled } from '@mui/material/styles';
 import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
 import ToggleButton from '@mui/material/ToggleButton';
 import PlayArrowOutlined from '@mui/icons-material/PlayArrowOutlined';
-import PlayListPlay from '@mui/icons-material/PlayListPlay';
+import PlaylistPlay from '@mui/icons-material/PlaylistPlay';
 import CleaningServices from '@mui/icons-material/CleaningServices';
 import Add from '@mui/icons-material/Add';
 import Delete from '@mui/icons-material/Delete';
@@ -92,7 +92,7 @@ const HeaderToolbar = ({ kernel, blockType, editor }: any) => {
             size="small"
             disabled={true}
           >
-            <PlayListPlay
+            <PlaylistPlay
               fontSize="small"
             />
           </ToggleButton>

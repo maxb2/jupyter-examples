@@ -32,7 +32,7 @@
     "@emotion/react": "11.4.0",
     "@emotion/styled": "11.3.0",
     "@jupyterlab/outputarea": "3.3.0-beta.0",
-    "@jupyterlab/services": "3.3.0-beta.0",
+    "@jupyterlab/services": "6.3.0-beta.0",
     "@lumino/default-theme": "0.14.0",
     "@lumino/widgets": "1.23.0",
     "@mui/material": "5.0.0",

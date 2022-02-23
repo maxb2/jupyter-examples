@@ -10,7 +10,7 @@ import { grey } from "@mui/material/colors";
 import Paper from "@mui/material/Paper";
 import PlayArrowOutlined from '@mui/icons-material/PlayArrowOutlined';
 import Add from '@mui/icons-material/Add';
-import PlayListPlay from '@mui/icons-material/PlayListPlay';
+import PlaylistPlay from '@mui/icons-material/PlaylistPlay';
 import CleaningServices from '@mui/icons-material/CleaningServices';
 import { Portal } from "../../editor/components/Components";
 import { getBlockType } from "../../editor/utils/EditorUtils";
@@ -107,7 +107,7 @@ const CellPopover = (props: { slateEditor: SlateEditor, kernel: Kernel, selectio
             size="small"
             disabled={true}
           >
-            <PlayListPlay
+            <PlaylistPlay
               fontSize="small"
             />
           </ToggleButton>
